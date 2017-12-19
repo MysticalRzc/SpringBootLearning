@@ -46,5 +46,4 @@ public class IndexController {
 		user.setDate(new Date());
 		return user;
 	}
-
 }
